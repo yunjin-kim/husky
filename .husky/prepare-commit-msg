@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+# .git/hooks/prepare-commit-msg
 
 COMMIT_EDITMSG=$1
 
